@@ -14,6 +14,6 @@
   }
 
   print sprintf("%.1f",b),pk,p,s,"→",d
-  p=s=sp=d=dp=b="";
+  p=s=d=pk=b="";
 
 }
